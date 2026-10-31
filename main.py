@@ -12,4 +12,4 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 تشغيل الخادم
 keep_alive()
 تشغيل البوت بالتوكن الخاص بك
-bot.run('MTU2NjE5Mzg2MTkyNjMzMDQxMQ.G7JCD7.mMTJrX6REbyCsJsGfErC1csNnV9YOXNFg17Mn8')
+bot.run('')
